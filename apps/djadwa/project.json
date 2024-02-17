@@ -1,0 +1,8 @@
+{
+  "name": "djadwa",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/djadwa/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
